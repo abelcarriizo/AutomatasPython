@@ -1,0 +1,41 @@
+# Archivo de usuarios.txt
+
+UsuarioAlice:
+  - Email: alice@example.com
+  - Twitter: @AliceTwitter
+  - Contraseña: P@ssAlice123
+  - URL: https://ww.aliceportfolio.com
+  - Dirección IP: 192.168.2.1
+  - Fecha: 15/11/1990
+
+UsuarioBob:
+  - Email: bob@um.edu.ar
+  - Twitter: @Bob_Tweets
+  - Contraseña: Security
+  - URL: http://www.bobwebsite.com
+  - Dirección IP: 203.0.113.5
+  - Fecha: 22-03-1985
+
+UsuarioCharlie:
+  - Email: charlie@gmail.com
+  - Twitter: @CharlieOfficial
+  - Contraseña: Charli3P@ss
+  - URL: http://www.charliepage.io
+  - Dirección IP: 172.16.0.1
+  - Fecha: 7/09/2000
+
+UsuarioDiana:
+  - Email: diana@um.edu.ar
+  - Twitter: @Diana_Social
+  - Contraseña: Diana#Secure2022
+  - URL: http://www.dianablog.com
+  - Dirección IP: 192.168.3.10
+  - Fecha: 30-06-1988
+
+UsuarioEdward:
+  - Email: edward@example.com
+  - Twitter: @EdwardCoder
+  - Contraseña: Edd1eP@ssword
+  - URL: https://www.edwardportfolio.com
+  - Dirección IP: 198.100.20
+  - Fecha: 12/12/1975
